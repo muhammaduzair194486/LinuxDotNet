@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "e0y5ua8kn+wdlbjAM0RCenItpBu3RX04d1bamPhoGhmv5KNKUiEfZ4ZApjcdKQruxUigtPORaCuDKb0cFf9B7A==",
+  "dgSpecHash": "aAcHPsOSmNEoCn3ETK6os7kMXnIQGzxO/Jnsif3f1zLm2GD1FLSenRBGsvhlv0g6RrI/RXq18M00MgVhhiQwBw==",
   "success": true,
   "projectFilePath": "/mnt/wsl/LinuxDotNet/LinuxDotNetTest/LinuxDotNetTest/LinuxDotNetTest.csproj",
   "expectedPackageFiles": [
