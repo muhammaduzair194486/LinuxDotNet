@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj": {}
+    "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj": {
+    "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj",
+        "projectUniqueName": "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj",
         "projectName": "LinuxDotNetTest",
-        "projectPath": "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj",
+        "projectPath": "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj",
         "packagesPath": "C:\\Users\\Meezotech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNetTest\\LinuxDotNetTest\\obj\\",
+        "outputPath": "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNet\\LinuxDotNetTest\\LinuxDotNetTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.HttpOverrides": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
