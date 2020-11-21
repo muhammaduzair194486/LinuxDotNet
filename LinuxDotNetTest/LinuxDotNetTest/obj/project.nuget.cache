@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/uMlC8DqfXBnbhznejyVxb9ld6BLg5fHf1kXQe0v4yWiDsNUfXGbPwT+O0DUpRfDf4SfecZHcrMvEGkNfarpjw==",
+  "dgSpecHash": "e0y5ua8kn+wdlbjAM0RCenItpBu3RX04d1bamPhoGhmv5KNKUiEfZ4ZApjcdKQruxUigtPORaCuDKb0cFf9B7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\repos1\\LinuxDotnet\\LinuxDotNetTest\\LinuxDotNetTest\\LinuxDotNetTest.csproj",
+  "projectFilePath": "/mnt/wsl/LinuxDotNet/LinuxDotNetTest/LinuxDotNetTest/LinuxDotNetTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Meezotech\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "/home/uzair1944/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.10.9/microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
   "logs": []
 }
